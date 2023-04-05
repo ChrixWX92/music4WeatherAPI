@@ -1,5 +1,4 @@
-# Music for Weather API - group 5
-
+# Music for Weather API
 ## Introduction
 An API application that takes the name of a city as input and provides a song recommendation based on the current weather conditions in that city.
 
